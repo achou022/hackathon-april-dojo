@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:/Users/Gary/Documents/GitHub/hackathon-april-dojo/bin/Debug/netcoreapp2.2/hackathon.deps.json
 C:/Users/Gary/Documents/GitHub/hackathon-april-dojo/bin/Debug/netcoreapp2.2/hackathon.runtimeconfig.json
 C:/Users/Gary/Documents/GitHub/hackathon-april-dojo/bin/Debug/netcoreapp2.2/hackathon.runtimeconfig.dev.json
@@ -20,3 +21,16 @@ C:/Users/Gary/Documents/GitHub/hackathon-april-dojo/obj/Debug/netcoreapp2.2/hack
 /Users/andrewchou/Desktop/codingDojo/C#/hackathon/obj/Debug/netcoreapp2.2/hackathon.AssemblyInfo.cs
 /Users/andrewchou/Desktop/codingDojo/C#/hackathon/obj/Debug/netcoreapp2.2/hackathon.dll
 /Users/andrewchou/Desktop/codingDojo/C#/hackathon/obj/Debug/netcoreapp2.2/hackathon.pdb
+=======
+C:\Users\Drew\Documents\coding_dojo\c#\OOP\Hackathon_Shared\hackathon-april-dojo\bin\Debug\netcoreapp2.2\hackathon.deps.json
+C:\Users\Drew\Documents\coding_dojo\c#\OOP\Hackathon_Shared\hackathon-april-dojo\bin\Debug\netcoreapp2.2\hackathon.runtimeconfig.json
+C:\Users\Drew\Documents\coding_dojo\c#\OOP\Hackathon_Shared\hackathon-april-dojo\bin\Debug\netcoreapp2.2\hackathon.runtimeconfig.dev.json
+C:\Users\Drew\Documents\coding_dojo\c#\OOP\Hackathon_Shared\hackathon-april-dojo\bin\Debug\netcoreapp2.2\hackathon.dll
+C:\Users\Drew\Documents\coding_dojo\c#\OOP\Hackathon_Shared\hackathon-april-dojo\bin\Debug\netcoreapp2.2\hackathon.pdb
+C:\Users\Drew\Documents\coding_dojo\c#\OOP\Hackathon_Shared\hackathon-april-dojo\obj\Debug\netcoreapp2.2\hackathon.csprojAssemblyReference.cache
+C:\Users\Drew\Documents\coding_dojo\c#\OOP\Hackathon_Shared\hackathon-april-dojo\obj\Debug\netcoreapp2.2\hackathon.csproj.CoreCompileInputs.cache
+C:\Users\Drew\Documents\coding_dojo\c#\OOP\Hackathon_Shared\hackathon-april-dojo\obj\Debug\netcoreapp2.2\hackathon.AssemblyInfoInputs.cache
+C:\Users\Drew\Documents\coding_dojo\c#\OOP\Hackathon_Shared\hackathon-april-dojo\obj\Debug\netcoreapp2.2\hackathon.AssemblyInfo.cs
+C:\Users\Drew\Documents\coding_dojo\c#\OOP\Hackathon_Shared\hackathon-april-dojo\obj\Debug\netcoreapp2.2\hackathon.dll
+C:\Users\Drew\Documents\coding_dojo\c#\OOP\Hackathon_Shared\hackathon-april-dojo\obj\Debug\netcoreapp2.2\hackathon.pdb
+>>>>>>> c28d96b354dcf637b917778d8edc22569ee653fc
