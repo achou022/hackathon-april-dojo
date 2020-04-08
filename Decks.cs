@@ -29,6 +29,9 @@ namespace Decks{
             {
                 for(int i = 0; i <= 9; i++){
                     deck.Add(new Card(suite, i));
+                    if(i != 0){
+                        deck.Add(new Card(suite, i));
+                    }
                 }
             }
             return deck;
@@ -64,6 +67,7 @@ namespace Decks{
         public Player(string name){
             Name = name;
             hand = new List<Card>();
+            Console.WriteLine($"{Name} has been initialized!");
         }
 
         public Card Draw(Deck deck){
