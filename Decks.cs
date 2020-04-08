@@ -82,5 +82,16 @@ namespace Decks{
             hand.Remove(target);
             return target;
         }
+
+        public void ShowHand(){
+            Console.WriteLine("Your hand contains the following: ");
+            int index = 0;
+            foreach (Card playerCard in hand)
+            {
+                Console.WriteLine(index + ": " + playerCard.Suit + " " + playerCard.Val);
+                index ++;
+            }
+            Console.WriteLine("Which card would you like to play?");
+        }
     }
 }
