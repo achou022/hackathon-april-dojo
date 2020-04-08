@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gary\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/jaystein/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gary\\Documents\\GitHub\\hackathon-april-dojo\\hackathon.csproj",
+      "projectUniqueName": "/Users/jaystein/Desktop/CodingDojo/C#/Hackathon/Uno/hackathon-april-dojo/hackathon.csproj",
       "projectName": "hackathon",
-      "projectPath": "C:\\Users\\Gary\\Documents\\GitHub\\hackathon-april-dojo\\hackathon.csproj",
-      "packagesPath": "C:\\Users\\Gary\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gary\\Documents\\GitHub\\hackathon-april-dojo\\obj\\",
+      "projectPath": "/Users/jaystein/Desktop/CodingDojo/C#/Hackathon/Uno/hackathon-april-dojo/hackathon.csproj",
+      "packagesPath": "/Users/jaystein/.nuget/packages/",
+      "outputPath": "/Users/jaystein/Desktop/CodingDojo/C#/Hackathon/Uno/hackathon-april-dojo/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gary\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/jaystein/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
