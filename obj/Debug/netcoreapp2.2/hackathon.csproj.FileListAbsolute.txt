@@ -1,0 +1,11 @@
+/Users/andrewchou/Desktop/codingDojo/C#/hackathon/bin/Debug/netcoreapp2.2/hackathon.deps.json
+/Users/andrewchou/Desktop/codingDojo/C#/hackathon/bin/Debug/netcoreapp2.2/hackathon.runtimeconfig.json
+/Users/andrewchou/Desktop/codingDojo/C#/hackathon/bin/Debug/netcoreapp2.2/hackathon.runtimeconfig.dev.json
+/Users/andrewchou/Desktop/codingDojo/C#/hackathon/bin/Debug/netcoreapp2.2/hackathon.dll
+/Users/andrewchou/Desktop/codingDojo/C#/hackathon/bin/Debug/netcoreapp2.2/hackathon.pdb
+/Users/andrewchou/Desktop/codingDojo/C#/hackathon/obj/Debug/netcoreapp2.2/hackathon.csprojAssemblyReference.cache
+/Users/andrewchou/Desktop/codingDojo/C#/hackathon/obj/Debug/netcoreapp2.2/hackathon.csproj.CoreCompileInputs.cache
+/Users/andrewchou/Desktop/codingDojo/C#/hackathon/obj/Debug/netcoreapp2.2/hackathon.AssemblyInfoInputs.cache
+/Users/andrewchou/Desktop/codingDojo/C#/hackathon/obj/Debug/netcoreapp2.2/hackathon.AssemblyInfo.cs
+/Users/andrewchou/Desktop/codingDojo/C#/hackathon/obj/Debug/netcoreapp2.2/hackathon.dll
+/Users/andrewchou/Desktop/codingDojo/C#/hackathon/obj/Debug/netcoreapp2.2/hackathon.pdb

@@ -10,17 +10,7 @@ namespace Decks{
         public Card(string suit, int val){
             Suit=suit;
             Val=val;
-            if(val==1){
-                StringVal="Ace of " + suit;
-            } else if (val == 11){
-                StringVal="Jack of " + suit;
-            } else if (val == 12){
-                StringVal="Queen of " + suit;
-            } else if (val == 13){
-                StringVal="King of " + suit;
-            } else {
-                StringVal=val + " of " + suit;
-            }
+            StringVal = suit + " " + val;
         }
     }
 
@@ -33,11 +23,11 @@ namespace Decks{
         }
 
         public List<Card> setDeck(){
-            List<string> suites = new List<string>{"Diamond", "Spade", "Heart", "Club"};
+            List<string> suites = new List<string>{"Red", "Blue", "Green", "Yellow"};
             List<Card> deck = new List<Card>();
             foreach (string suite in suites)
             {
-                for(int i = 1; i <= 13; i++){
+                for(int i = 0; i <= 9; i++){
                     deck.Add(new Card(suite, i));
                 }
             }
