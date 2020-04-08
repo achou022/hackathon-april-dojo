@@ -17,17 +17,19 @@ namespace Decks{
             }
         }
         //108 cards total
+        //---------------------Types-----------------------------
         //0(1 of each 4 colors) - 4
         //1-9(2 of each 4 colors) - 72
         //skip(2 of each 4 colors), take 2(2 of each 4 colors), reverse(2 of each 4 colors) - 24
         //choose color(4 total), choose and take 4 (4 total) - 8
-        //val 0-9 -> 0-9
-        //val 10, 11, 12, 13, 14 -> skip, take2, reverse, chooseColor, chooseTake4
+        //--------------------Actions----------------------------
+        //val [0-9] -> [none]
+        //val [10, 11, 12, 13, 14] -> [skip, take2, reverse, chooseColor, chooseTake4]
         public void Action(Player target, Deck deck, string color)
         {
             if(Val==10)//skip
             {
-                //target.SkipTurn()
+                //target.SkipTurn() or GameBoard.SkipTurn()?
             }
             if(Val==11)//take2
             {
